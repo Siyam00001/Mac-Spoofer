@@ -21,8 +21,5 @@ This Python script is a MAC Address Spoofer designed to alter the Media Access C
 
 ## Installation
 ```sh
-# Clone the repository
-git clone https://github.com/<your-username>/mac-address-spoofer.git
-
 # Navigate to the project directory
 cd mac-address-spoofer
